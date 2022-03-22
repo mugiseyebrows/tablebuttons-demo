@@ -1,0 +1,3 @@
+[submodule "tablebuttons"]
+	path = tablebuttons
+	url = https://github.com/mugiseyebrows/tablebuttons.git
